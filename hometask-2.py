@@ -1,5 +1,5 @@
 class Figure:
-    unit = 'cm'  # атрибут уровня класса
+    unit = 'cm'
 
     def __init__(self):
         pass
